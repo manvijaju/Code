@@ -1,20 +1,19 @@
 body {
-    margin: 80;
-    padding: 50;
-    font-family: Arial, sans-serif;
-    overflow: auto;
-    display: flex;
-    margin: 0;
-    color: #c41b1b;
-
+  margin: 80;
+  padding: 50;
+  font-family: Arial, sans-serif;
+  overflow: auto;
+  display: flex;
+  margin: 0;
+  color: #c41b1b;
 }
 .split-screen {
-    display: flex;
-    height: 100vh;
-    overflow-y: scroll;
+  display: flex;
+  height: 100vh;
+  overflow-y: scroll;
 }
-.left-side, .right-side {
-    width: 50%;
-    padding: 50px;
-    
+.left-side,
+.right-side {
+  width: 50%;
+  padding: 50px;
 }
