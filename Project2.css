@@ -12,6 +12,7 @@ body {
   height: 100vh;
   overflow-y: scroll;
 }
+
 .left-side,
 .right-side {
   width: 50%;
